@@ -109,7 +109,7 @@ For the Subscription select the approriate subscription if you have more than on
 If you only have one subscription skip this step and proceed to the next step. <br /> <br />
 For the Resource Group select the desired Resource Group, for this tutorial we will be using "RGLab2". <br /> <br />
 For the Region select the desired region, for this tutorial we will be using "(US) East US". <br /> <br />
-For the Availabilty Zone select the desire availability zone, for this tutorial we will be using "Zone 2". <br /> <br />
+For the Availabilty Zone select the desired availability zone, for this tutorial we will be using "Zone 2". <br /> <br />
 Please be sure to deselect "Zone 1" so that 2 zones are not selected in the same region for the same virtual machine. <br /> <br />
 </p>
 <br />
