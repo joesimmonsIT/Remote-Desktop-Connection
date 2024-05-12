@@ -242,7 +242,9 @@ Select "Yes" to proceed with accessing remote desktop connection for VM1. <br />
 <img src="https://i.imgur.com/PUcdRKD.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Privacy Settings and other preferences will appear, select "No" to proceed further. <br /> <br />
+We will arrive at the desktop for VM1. <br /> <br />
+Blue Networks Box will appear, select "Yes" to proceed forward. <br /> <br />
 </p>
 <br />
 
