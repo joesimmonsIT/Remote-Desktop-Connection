@@ -29,8 +29,9 @@ In this tutorial, we create a resource group, virtual machine and connect via Re
 <img src="https://i.imgur.com/xylOPQX.png"/>
 </p>
 <p>
-Go to: Portal. Azure.com <br /> <br />
+Go to: Portal. Azure.com. <br /> <br />
 Log In Azure Portal if not already logged in. <br /> <br />
+Select "Resource groups" icon. <br /> <br /> <br /> <br />
 </p>
 <br />
 
