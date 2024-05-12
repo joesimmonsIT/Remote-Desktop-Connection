@@ -221,7 +221,11 @@ Press "Connect" to proceed with accessing Remote Desktop Connection for VM1. <br
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select More Choices. <br /> <br />
+Select different account. <br /> <br />
+Type username created for VM1, for this tutortial we will use "labuser" as the username for VM1. <br /> <br />
+Type the password created for VM1. <br /> <br />
+Select Ok. <br /> <br />
 </p>
 <br />
 
