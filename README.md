@@ -127,7 +127,10 @@ For the Image select "Windows 10 Pro".
 <img src="https://i.imgur.com/BdIyfEQ.png"/>
 </p>
 <p>
-For the Image select "Windows 10 Pro".
+For the Size select "Standard- 2 vcpus". <br /> <br />
+For the Username type "labuser". <br /> <br />
+For the Password create something that you can easily remember or write down and easily retrieve. <br /> <br />
+For the Confirm Password repeat the same password you previously created. <br /> <br />
 </p>
 <br />
 
