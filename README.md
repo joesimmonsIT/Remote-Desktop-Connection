@@ -223,7 +223,7 @@ Press "Connect" to proceed with accessing Remote Desktop Connection for VM1. <br
 <p>
 Select "More Choices". <br /> <br />
 Select "different account". <br /> <br />
-Type username created for VM1, for this tutortial we will use "labuser" as the username for VM1. <br /> <br />
+Type username created for VM1, for this tutorial we will use "labuser" as the username for VM1. <br /> <br />
 Type the password created for VM1. <br /> <br />
 Select Ok. <br /> <br />
 </p>
@@ -255,7 +255,7 @@ Blue Networks Box will appear, select "Yes" to proceed forward. <br /> <br />
 </p>
 <p>
 Go to the Windows Pane, type "cmd" in the search box. <br /> <br />
-The Command Prompt will appear, Press Enter. <br /> <br />
+The Command Prompt will appear, Press "Enter". <br /> <br />
 </p>
 <br />
 
@@ -263,8 +263,8 @@ The Command Prompt will appear, Press Enter. <br /> <br />
 <img src="https://i.imgur.com/xC20aHM.png"/>
 </p>
 <p>
-The Command Prompt open, type "whoami" and Press Enter. <br /> <br />
-Type "hostname" and Press Enter. <br /> <br />
+The Command Prompt open, type "whoami" and Press "Enter". <br /> <br />
+Type "hostname" and Press "Enter". <br /> <br />
 The results will appear on the screen. <br /> <br />
 Congratulations you have completed this tutorial! <br /> <br />
 </p>
