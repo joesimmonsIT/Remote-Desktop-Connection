@@ -225,7 +225,7 @@ Select "More Choices". <br /> <br />
 Select "different account". <br /> <br />
 Type username created for VM1, for this tutorial we will use "labuser" as the username for VM1. <br /> <br />
 Type the password created for VM1. <br /> <br />
-Select Ok. <br /> <br />
+Select "Ok". <br /> <br />
 </p>
 <br />
 
