@@ -29,7 +29,7 @@ In this tutorial, we create a resource group, virtual machine and connect via Re
 <img src="https://i.imgur.com/xylOPQX.png"/>
 </p>
 <p>
-Go to: Portal. Azure.com. <br /> <br />
+Go to: "Portal. Azure.com". <br /> <br />
 Log In Azure Portal if not already logged in. <br /> <br />
 Select "Resource groups" icon. <br /> <br /> <br /> <br />
 </p>
@@ -50,7 +50,7 @@ Select "Create" button in the middle of the page.
 <img src="https://i.imgur.com/MrNi9xH.png"/>
 </p>
 <p>
-For the Subscription select the approriate subscription if you have more than one Azure subscription. <br /> <br />
+For the Subscription select the appropriate subscription if you have more than one Azure subscription. <br /> <br />
 If you only have one subscription skip this step and proceed to the next step. <br /> <br />
 For the Resource Group type the desired name for the resource group, for this tutorial we will be using "RGLab2". <br /> <br />
 For the Region select the desired region, for this tutorial we will be using "(US) East US". <br /> <br />
