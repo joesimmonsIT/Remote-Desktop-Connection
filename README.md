@@ -85,7 +85,7 @@ Our newly created Resource group is completed and displayed in the Resource grou
 <img src="https://i.imgur.com/3Eppu0i.png"/>
 </p>
 <p>
-Go to Portal.Azure.com. <br /> <br />
+Go to "Portal.Azure.com". <br /> <br />
 Type "Virtual Machines" in the search bar. <br /> <br />
 Select "Virtual Machines" from the search results. <br /> <br />
 </p>
@@ -105,7 +105,7 @@ From the drop down menu select "Azure virtual machine". <br /> <br />
 </p>
 <p>
 
-For the Subscription select the approriate subscription if you have more than one Azure subscription. <br /> <br />
+For the Subscription select the appropriate subscription if you have more than one Azure subscription. <br /> <br />
 If you only have one subscription skip this step and proceed to the next step. <br /> <br />
 For the Resource Group select the desired Resource Group, for this tutorial we will be using "RGLab2". <br /> <br />
 For the Region select the desired region, for this tutorial we will be using "(US) East US". <br /> <br />
@@ -148,7 +148,7 @@ Select "Review + create" to proceed with the creation of the virtual machine. <b
 <img src="https://i.imgur.com/SnoYnNO.png"/>
 </p>
 <p>
-Once all the steps have been completed correctly a green check mark shoudl apprear and the words "Validation passed". <br /> <br />
+Once all the steps have been completed correctly a green check mark should apprear and the words "Validation passed". <br /> <br />
 Select "Create" to proceed with the creation of the virtual machine. <br /> <br />
 </p>
 <br />
@@ -176,7 +176,7 @@ The virtual machine has been deployed and is ready to be resourceful as a newly 
 <img src="https://i.imgur.com/3Eppu0i.png"/>
 </p>
 <p>
-Go to: Portal.Azure.com. <br /> <br />
+Go to: "Portal.Azure.com". <br /> <br />
 Type "Virtual Machines" in the search bar. <br /> <br />
 Select "Virtual Machines" from the search results. <br /> <br />
 </p>
@@ -186,7 +186,7 @@ Select "Virtual Machines" from the search results. <br /> <br />
 <img src="https://i.imgur.com/IMJA7CL.png"/>
 </p>
 <p>
-Select VM1.
+Select "VM1".
 </p>
 <br />
 
@@ -221,8 +221,8 @@ Press "Connect" to proceed with accessing Remote Desktop Connection for VM1. <br
 
 </p>
 <p>
-Select More Choices. <br /> <br />
-Select different account. <br /> <br />
+Select "More Choices". <br /> <br />
+Select "different account". <br /> <br />
 Type username created for VM1, for this tutortial we will use "labuser" as the username for VM1. <br /> <br />
 Type the password created for VM1. <br /> <br />
 Select Ok. <br /> <br />
