@@ -202,7 +202,7 @@ Copy the Public IP Address for VM1.
 <img src="https://i.imgur.com/Xmho7HL.png"/>
 </p>
 <p>
-Go to the Windows Pane at the bottom of the screen, in the search bar type "Remote Desktop" and press the Enter button.
+Go to the Windows Pane at the bottom of the screen, in the search bar type "Remote Desktop" and press the "Enter" button.
 </p>
 <br />
 
